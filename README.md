@@ -627,6 +627,7 @@ VALUES ('Planes', '1900-01-01');
 Insert into watermarktable
 VALUES ('Cars', '1900-01-01');
 ```
+- Change the datasets so that they can accept parameters when used in Copy Activity next
 - Open Pipeline in ADF
 - Create 2 pipeline parameters
 ```
