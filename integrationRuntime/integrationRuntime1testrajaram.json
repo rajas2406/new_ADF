@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime1testrajaram",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
