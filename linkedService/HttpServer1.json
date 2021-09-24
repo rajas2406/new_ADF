@@ -1,0 +1,15 @@
+{
+	"name": "HttpServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://isharenew.dhl.com/sites/myBI_Auto/Shared%20Documents/myBI_Automation/myBI_Automation.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Basic",
+			"userName": "kul-dc\\rajarams",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlJBSkFBREZURVNUX2Y4ZjM5NGUxLWM1MjYtNGFhYi1hMmM0LTZjNjMyNTZjNDBjOSINCn0="
+		}
+	}
+}
